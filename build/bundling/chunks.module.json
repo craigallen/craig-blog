@@ -1,0 +1,59 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.46.0",
+  "hash": "0cf3e84c53b57c3040ca",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\CraigAllen\\Documents\\Apps\\craig-blog\\build\\static",
+  "assetsByChunkName": {
+    "craig-blog": "craig-blog.module.js"
+  },
+  "assets": [
+    {
+      "name": "craig-blog.module.js",
+      "size": 4969742,
+      "chunks": [
+        "craig-blog"
+      ],
+      "chunkNames": [
+        "craig-blog"
+      ],
+      "info": {},
+      "emitted": true,
+      "isOverSizeLimit": true
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "craig-blog": {
+      "chunks": [
+        "craig-blog"
+      ],
+      "assets": [
+        "craig-blog.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "craig-blog": {
+      "chunks": [
+        "craig-blog"
+      ],
+      "assets": [
+        "craig-blog.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 2,
+      "debug": false
+    }
+  },
+  "children": []
+}

@@ -9,33 +9,7 @@ const settings = {
   },
   "packages": [
     {
-      "name": "@frontity/twentytwenty-theme",
-      "state": {
-        "theme": {
-          "menu": [
-            [
-              "Home",
-              "/"
-            ],
-            [
-              "Podcast",
-              "https://whywemakestuff.com/"
-            ],
-            [
-              "Twitter",
-              "https://twitter.com/craigger"
-            ],
-            [
-              "Contact",
-              "/contact/"
-            ]
-          ],
-          "featured": {
-            "showOnList": false,
-            "showOnPost": false
-          }
-        }
-      }
+      "name": "jsnation-theme"
     },
     {
       "name": "@frontity/wp-source",
