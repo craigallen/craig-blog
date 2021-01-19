@@ -2,7 +2,7 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "0cf3e84c53b57c3040ca",
+  "hash": "e2aaa4f54fc13fddb089",
   "publicPath": "/static/",
   "outputPath": "C:\\Users\\CraigAllen\\Documents\\Apps\\craig-blog\\build\\static",
   "assetsByChunkName": {
@@ -11,7 +11,7 @@
   "assets": [
     {
       "name": "craig-blog.module.js",
-      "size": 4969742,
+      "size": 5004451,
       "chunks": [
         "craig-blog"
       ],

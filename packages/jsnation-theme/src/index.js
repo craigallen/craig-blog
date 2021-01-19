@@ -6,9 +6,18 @@ export default {
     theme: Root
   },
   state: {
-    theme: {}
+    theme: {
+      isMenuOpen : false
+    }
   },
   actions: {
-    theme: {}
+    theme: {
+      openMenu: ({state}) => {
+        state.theme.isMenuOpen = true;
+      },
+      closeMenu: ({state}) => {
+        state.theme.isMenuOpen = false;
+      }
+    }
   }
 };
